@@ -1,0 +1,133 @@
+@media (max-width: 1199px) {
+  .header-top-area .top-info-column ul li {
+    margin-right: 50px;
+  }
+  .select-area .form {
+    display: block;
+  }
+  .select-area .form .select-one {
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
+  .select-area .form .select-two {
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
+  .select-area .form .select-three {
+    margin-right: 0;
+    margin-bottom: 40px;
+  }
+  .bg-image-right-before .ltn__list-item-half li {
+    font-size: 13px;
+  }
+}
+
+@media (max-width: 991px) {
+  .col-lg-6.top-info-column {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .top-social-icon-column {
+    text-align: center;
+  }
+  .custom-nav .user-menu {
+    margin-left: 0;
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+  .banner-wrapper-area .banner-wrap h1 {
+    font-size: 49px;
+  }
+  .banner-wrapper-area .image {
+    margin-top: 50px;
+  }
+  .content {
+    margin-top: 30px;
+  }
+  .bg-image-right-before::before {
+    display: none;
+  }
+  .bg-image-right-before .about-img-left {
+    margin-top: 30px;
+  }
+  .bg-image-right-before {
+    display: none;
+  }
+  .left {
+    display: block;
+  }
+  .section-bg-1 {
+    padding: 50px 0px 0px 0px;
+    background: #f2f6f7;
+  }
+  .apratment-wrapper-area .apartment-wrap ul .nav-link {
+    margin-left: 5px;
+  }
+}
+
+@media (max-width: 575px) {
+  .header-top-area {
+    display: none;
+  }
+  .banner-wrapper-area .banner-wrap {
+    margin-top: 50px;
+  }
+  .about-wrapper-area .content h2 {
+    font-size: 25px;
+  }
+  .about-wrapper-area .area p {
+    font-size: 16px;
+  }
+  .about-wrapper-area .area .ltn__list-item-half {
+    display: block;
+  }
+  .about-wrapper-area .area .ltn__list-item-half li {
+    display: block;
+    float: unset;
+    font-size: 13px;
+  }
+  .section-bg-1 {
+    padding: 25px 0px 0px 0px;
+  }
+  .section-bg-1 .section-title {
+    font-size: 25px;
+  }
+  .bg-image-right-before .ltn__list-item-half {
+    display: block;
+  }
+  .ltn__list-item-half span {
+    position: relative;
+    top: -38px;
+    left: 60px;
+  }
+  .bg-image-right-before .ltn__list-item-half li {
+    display: block;
+    float: unset;
+  }
+  .apratment-wrapper-area h2 {
+    font-size: 25px;
+  }
+  .apratment-wrapper-area .apartment-wrap ul .nav-link {
+    margin-left: 15px;
+    margin-right: 24px;
+  }
+  .apratment-wrapper-area .ltn__secondary-bg {
+    padding-top: 55px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+  }
+  .apartments-info-list > ul li::before {
+    display: none;
+  }
+  .footer-widget.footer-menu-widget.clearfix {
+    margin-top: 20px;
+  }
+  .footer-widget.footer-newsletter-widget {
+    margin-top: 20px;
+  }
+  .footer .ltn__copyright-area .ltn__copyright-menu {
+    text-align: center;
+  }
+}
+/*# sourceMappingURL=responsive.css.map */
